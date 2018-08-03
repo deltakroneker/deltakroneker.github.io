@@ -9,9 +9,9 @@
 
   h2 {
     @include sans;
-    font-weight: 900;
+    font-weight: 600;
     font-size: 1.75rem;
-    letter-spacing: -.05rem;
+    letter-spacing: -.005rem;
     margin: 0;
   }
 }
@@ -32,7 +32,7 @@
   .header-name {
     @include sans;
     font-size: 3rem;
-    font-weight: 900;
+    font-weight: 350;
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
