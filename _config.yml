@@ -23,7 +23,7 @@ resume_contact_address:         "Ratnih vojnih invalida 3, Borča"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hey there, I’m Nikola - a student at the University of Belgrade, School of Electrical Engineering. I am a fan of technology, programming and music. I also love healthy lifestyle, running and dancing. </p><p>On this website i will show you all the apps and designs i made. </br> If you need an iOS app made, whether it be big business project or just simple personal idea, it can be done. </br> Want to know how much that will cost? Feel free to contact me and we can arrange a deal. </p>"
+resume_header_intro: "<p>Hi, my name is Nikola, I am student & mobile app developer. My experience consists of personal projects, freelance work and full time job as iOS developer. My aim is to make apps that are easy to use, read, and modify. </br> These three points contribute in easily maintainable project so you can enhance an app as your company grows. </br></br> ✅ iOS Apps made in Swift & Xcode </br> ⚛️ UX/UI Consulting</br> ✴️ Professional communication </br> 💯 Percent satisfaction </br></br> Feel free to contact me and ask anything!  </br></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,10 +35,10 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
+resume_section_projects:        false
+resume_section_skills:          false
 resume_section_recognition:     false
-resume_section_links:           true
+resume_section_links:           false
 resume_section_associations:    false
 # resume_section_interests:       true
 
