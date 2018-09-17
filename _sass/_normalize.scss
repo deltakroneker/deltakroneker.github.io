@@ -10,7 +10,7 @@
  */
 
 html {
-  font-family: sans-serif; /* 1 */
+  font-family: "Fira Sans"; /* 1 */
   text-size-adjust: 100%; /* 2 */
 }
 
@@ -232,7 +232,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: "Fira Sans";
   font-size: 1em;
 }
 
@@ -425,6 +425,9 @@ th {
   padding: 0;
 }
 
-.plavo {
- color: blue;
+.delta {
+ color: crimson;
+font-size: 2rem;
+font-weight: 500;
+letter-spacing: -.10rem;
 }
